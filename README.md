@@ -3,6 +3,8 @@ This project is based on the ESP-MQTT sample application, the original readme fr
 
 Personal information, such as the Wi-Fi access information, has been removed from the SDK config and will need to be reconfigured. 
 
+The current MQTT access token may be expired, sign up for a Flespi account, activate a new token, and replace the current SDK config if necessary. 
+
 # ESP-MQTT sample application
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
